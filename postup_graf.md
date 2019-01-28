@@ -7,10 +7,12 @@ import seaborn as sns
 
 # Následujicí řádek je potřeba pro zobrazení matplotlib grafů v Jupyter notebooku
 %matplotlib inline 
+
+# Následujicí řádek udělá hezčí styl grafů
+plt.style.use('seaborn')
 ```
 
 0. Načíst data
-    - Případně přejmenovat sloupce
     
 	```python
 	data = pd.read_csv(URL nebo soubor)
@@ -19,7 +21,6 @@ import seaborn as sns
 1. Vytvořit obrázek
 
 	```python
-	plt.style.use('seaborn')
 	fig, ax = plt.subplots(figsize=(10,6), dpi= 80)
 	```
 
@@ -31,13 +32,14 @@ import seaborn as sns
 	plt.hist(x)
 	sns.boxplot(x, y, data)
 	```
+
 3. Přidat popisky
 
 	```python
 	ax.set(xlabel, ylabel, xlim, ylim, title)
-	ax.set_xlim()
-	ax.set_ylim()
-	ax.set_xlabel()
-	ax.set_ylabel()
-	ax.set_title()
+	ax.set_xlim([0,10000])
+	ax.set_ylim([0,10000])
+	ax.set_xlabel('Váha těla, kg')
+	ax.set_ylabel('Váha mozku, g')
+	ax.set_title('Váha těla a mozku různých zvířat')
 	```
