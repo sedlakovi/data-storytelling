@@ -90,4 +90,23 @@ Nyní zkontrolujte instalaci, viz [Kontrola instalace](#kontrola-instalace)
 
 ## Kontrola instalace
 
-TODO
+### 1.
+
+Stáhněte si [testovací skript](https://raw.githubusercontent.com/RobotsAndPeople/data-storytelling/master/test_plot.py).
+
+### 2.
+
+Na Windows můžete zkusit skript spustit dvojklikem. Pokud vše funguje, uvidíte kódové slovo.
+
+Jestli nefunguje spuštění dvojklikem, spusťte skript z příkazové řádky. Například jestli se skript
+stáhnul do `Downloads`, spustíte:
+
+```
+cd Downloads
+
+# Windows
+py -3 test_plot.py
+
+# MacOs, Linux
+python3 test_plot.py
+```
