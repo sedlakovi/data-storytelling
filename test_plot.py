@@ -23,7 +23,6 @@ def main():
 		sys.exit(1)
 
 	print("Verze Jupyter Notebooku je {}.".format(notebook.__version__))
-	print("Verze XLRD je {}".format(xlrd.__version__))
 
 	# Přečteme data, která jsou na konci tohoto skriptu.
 	data_file = io.BytesIO(gzip.decompress(base64.b85decode(POINTS)))
