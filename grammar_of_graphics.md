@@ -1,4 +1,4 @@
-## Grammar og graphics
+## Grammar of graphics
 
 - Data
 	- Jaké proměnné chci vizualizovat?
