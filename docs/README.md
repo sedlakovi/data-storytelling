@@ -102,11 +102,9 @@ Jestli nefunguje spuštění dvojklikem, spusťte skript z příkazové řádky.
 stáhnul do `Downloads`, spustíte:
 
 ```
-cd Downloads
-
 # Windows
-py -3 test_plot.py
+py -3 Downloads\test_plot.py
 
 # MacOs, Linux
-python3 test_plot.py
+python3 Downloads/test_plot.py
 ```
