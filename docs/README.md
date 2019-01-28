@@ -63,7 +63,8 @@ Nyní zkontrolujte instalaci, viz [Kontrola instalace](#kontrola-instalace)
 ### 1. 
 
 Nainstalujte Python 3 pomocí `brew install python3`.
-    - Jestli nemáte `brew`, nainstalujte si jej podle https://brew.sh/
+
+- Jestli nemáte `brew`, nainstalujte si jej podle https://brew.sh/
     
 ### 2. 
 
