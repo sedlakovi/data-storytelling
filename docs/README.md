@@ -1,32 +1,66 @@
-Welcome to GitHub Pages
+# Prezentace
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Sem budeme dávat odkazy na prezentace z kurzu.
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-Markdown
+# Instalace
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pro tento kurz si potřebujete nainstalovat
 
-Syntax highlighted code block
+- Python 3
+- Pandas (pro zpracování dat)
+- Jupyter Notebook (tam budeme psát kód)
+- Matplotlib a Seaborn (kreslí grafy)
+- xlrd (čte Excelové tabulky)
 
-# Header 1
-## Header 2
-### Header 3
+## Instalace na Windows
 
-- Bulleted
-- List
+1. Otevřete příkazovou řádku. Ve Start menu napište "cmd" (prostě jen začněte psát) nebo ji najděte v menu. Na Windows v angličtině je ve složce "Windows System".
 
-1. Numbered
-2. List
+  ![Start menu s příkazovou řádkou](cmd.jpg)
 
-**Bold** and _Italic_ and `Code` text
+2. V příkazové řádce zkuste napsat `python`. Jestli dostanete chybu, nejspíš Python nemáte nainstalovaný. Jestli se spustí Python a jeho verze je alespoň 3.4, můžete instalaci Pythonu přeskočit a pokračovat instalací balíčků.
 
-[Link](url) and ![Image](src)
+  ![Není Python](nopython.jpg)
 
-For more details see GitHub Flavored Markdown.
-Jekyll Themes
+3. Ze stránky https://www.python.org/ stáhněte **Python 3**.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-Support or Contact
+  ![Stahujeme Python](python-download.jpg)
 
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+4. **Důležité 1** - pokud máte v uživatelském jménu do Windows mezery nebo např. háčky, čárky, zvolte "Customize installation" a vyberte cestu, která nebude uvnitř "C:\Users\Vaše jméno". Jinak můžete mít problém v pozdějších krocích s instalací balíčků.
+
+   **Důležité 2** - v instalátoru zaškrtněte volbu "Add Python to PATH".
+
+  ![Instalace](python-install.jpg)
+
+5. Je potřeba zavřít a otevřít okno příkazové řádky.
+
+6. Pomocí příkazu `pip install pandas jupyter matplotlib seaborn xlrd` nainstalujete balíčky, které budeme používat.
+
+  ![Instalace balíčků](packages.jpg)
+  
+  Instalace by měla skončit se slovy `Successfully installed`, po kterých následuje výpis hromady balíčků s verzemi.
+  
+  ![Instalace balíčků hotova](packages-finish.jpg)
+
+7. Nyní zkontrolujte instalaci, viz [Kontrola instalace](#kontrola-instalace)
+
+## MacOS
+
+1. Nainstalujte Python 3 pomocí `brew install python3`.
+    - Jestli nemáte `brew`, nainstalujte si jej podle https://brew.sh/
+    
+2. Pomocí příkazu `pip install --user pandas jupyter matplotlib seaborn xlrd` nainstalujete balíčky, které budeme používat.
+
+3. Nyní zkontrolujte instalaci, viz [Kontrola instalace](#kontrola-instalace)
+
+## Linux
+
+1. Nainstalujte Python 3. Na Ubuntu pomocí `sudo apt install python3 python3-pip`.
+
+2. Pomocí příkazu `pip install --user pandas jupyter matplotlib seaborn xlrd` nainstalujete balíčky, které budeme používat.
+
+3. Nyní zkontrolujte instalaci, viz [Kontrola instalace](#kontrola-instalace)
+
+## Kontrola instalace
+
+TODO
