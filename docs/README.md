@@ -15,7 +15,6 @@ Pro tento kurz si potřebujete nainstalovat
 ## Instalace na Windows
 
 1. Otevřete příkazovou řádku. Ve Start menu napište "cmd" (prostě jen začněte psát) nebo ji najděte v menu. Na Windows v angličtině je ve složce "Windows System".
-
   ![Start menu s příkazovou řádkou](cmd.jpg)
 
 2. V příkazové řádce zkuste napsat `python`. Jestli dostanete chybu, nejspíš Python nemáte nainstalovaný. Jestli se spustí Python a jeho verze je alespoň 3.4, můžete instalaci Pythonu přeskočit a pokračovat instalací balíčků.
