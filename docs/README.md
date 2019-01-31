@@ -7,6 +7,13 @@
 - [Gramatika vizualizace](gog_example_tips.slides.html)
 - [Ukázka prezentace](titanic.slides.html)
 
+# Cheat sheety
+
+- [Seznámení s daty](https://github.com/RobotsAndPeople/data-storytelling/blob/master/postup_data.md)
+- [Vykreslení grafů](https://github.com/RobotsAndPeople/data-storytelling/blob/master/postup_graf.md)
+- [Originál Pandas](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+- [Soubor cheat sheetů od DataCamp](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
+
 # Instalace
 
 Pro tento kurz si potřebujete nainstalovat
