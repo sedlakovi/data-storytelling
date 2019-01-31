@@ -10,6 +10,7 @@
 # Cheat sheety
 
 - [Seznámení s daty](https://github.com/RobotsAndPeople/data-storytelling/blob/master/postup_data.md)
+- [Gramatika vizualizace](https://github.com/RobotsAndPeople/data-storytelling/blob/master/grammar_of_graphics.md)
 - [Vykreslení grafů](https://github.com/RobotsAndPeople/data-storytelling/blob/master/postup_graf.md)
 - [Originál Pandas](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [Soubor cheat sheetů od DataCamp](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
