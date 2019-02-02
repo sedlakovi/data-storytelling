@@ -15,6 +15,7 @@
 - [Originál Pandas](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [Soubor cheat sheetů od DataCamp](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
 - [Prezentace v Jupyteru](https://github.com/RobotsAndPeople/data-storytelling/blob/master/prezentace_jupyter_notebook.md)
+- [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 
 # Instalace
 
