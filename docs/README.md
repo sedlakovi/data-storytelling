@@ -16,7 +16,7 @@
 - [Soubor cheat sheetů od DataCamp](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
 - [Prezentace v Jupyteru](https://github.com/RobotsAndPeople/data-storytelling/blob/master/prezentace_jupyter_notebook.md)
 - [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
-- [magické funkce v Jupyter Notebooku](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+- [Magické funkce v Jupyter Notebooku](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 # Užitečné odkazy
 
