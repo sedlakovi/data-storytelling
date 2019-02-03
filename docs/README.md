@@ -17,6 +17,12 @@
 - [Prezentace v Jupyteru](https://github.com/RobotsAndPeople/data-storytelling/blob/master/prezentace_jupyter_notebook.md)
 - [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 
+# Užitečné odkazy
+
+- [Galerie grafů vytvořených v matplotlibu](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python)
+- [Seznam vzorových sad dat z R](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
+- [Data z Kaggle (pro stažení je nutné zdarma se zaregistrovat)](https://www.kaggle.com/datasets)
+
 # Instalace
 
 Pro tento kurz si potřebujete nainstalovat
