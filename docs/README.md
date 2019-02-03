@@ -16,12 +16,17 @@
 - [Soubor cheat sheetů od DataCamp](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
 - [Prezentace v Jupyteru](https://github.com/RobotsAndPeople/data-storytelling/blob/master/prezentace_jupyter_notebook.md)
 - [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
+- [magické funkce v Jupyter Notebooku](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 # Užitečné odkazy
 
 - [Galerie grafů vytvořených v matplotlibu](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python)
 - [Seznam vzorových sad dat z R](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
 - [Data z Kaggle (pro stažení je nutné zdarma se zaregistrovat)](https://www.kaggle.com/datasets)
+- [Tvorba barevných palet](http://paletton.com/)
+- [Článek o tidy datech](http://vita.had.co.nz/papers/tidy-data.pdf)
+- [Vykreslení dat na mapy](https://matplotlib.org/basemap/users/geography.html)
+- [Vizualizace v pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
 # Instalace
 
