@@ -6,6 +6,7 @@
 - [Matplotlib](grafy.slides.html)
 - [Gramatika vizualizace](gog_example_tips.slides.html)
 - [Ukázka prezentace](titanic.slides.html)
+- [Graf z upoutávky na kurz](example_plot.slides.html)
 
 # Cheat sheety
 
