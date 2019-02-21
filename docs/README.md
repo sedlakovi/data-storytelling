@@ -10,12 +10,12 @@
 
 # Cheat sheety
 
-- [Seznámení s daty](https://github.com/RobotsAndPeople/data-storytelling/blob/master/postup_data.md)
-- [Gramatika vizualizace](https://github.com/RobotsAndPeople/data-storytelling/blob/master/grammar_of_graphics.md)
-- [Vykreslení grafů](https://github.com/RobotsAndPeople/data-storytelling/blob/master/postup_graf.md)
+- [Seznámení s daty](https://github.com/sedlakovi/data-storytelling/blob/master/postup_data.md)
+- [Gramatika vizualizace](https://github.com/sedlakovi/data-storytelling/blob/master/grammar_of_graphics.md)
+- [Vykreslení grafů](https://github.com/sedlakovi/data-storytelling/blob/master/postup_graf.md)
 - [Originál Pandas](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [Soubor cheat sheetů od DataCamp](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
-- [Prezentace v Jupyteru](https://github.com/RobotsAndPeople/data-storytelling/blob/master/prezentace_jupyter_notebook.md)
+- [Prezentace v Jupyteru](https://github.com/sedlakovi/data-storytelling/blob/master/prezentace_jupyter_notebook.md)
 - [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 - [Magické funkce v Jupyter Notebooku](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
@@ -119,7 +119,7 @@ Nyní zkontrolujte instalaci, viz [Kontrola instalace](#kontrola-instalace)
 
 ### 1.
 
-Stáhněte si [testovací skript](https://raw.githubusercontent.com/RobotsAndPeople/data-storytelling/master/test_plot.py).
+Stáhněte si [testovací skript](https://raw.githubusercontent.com/sedlakovi/data-storytelling/master/test_plot.py).
 
 ### 2.
 
